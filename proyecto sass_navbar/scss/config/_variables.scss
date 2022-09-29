@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+:root {
+    --header-heigth:3.5rem;
+    --first-color: hsl(273, 97%, 66%);
+    --first-color-shape: hsl(252, 33%, 32%);
+    --title-color: hsl(40, 43%, 1%);
+    --text-color: hsl(0, 100%, 100%);
+    --body-color: hsl(146, 69%, 62%);
+    --container-color: hsl(0, 0%, 3%);
+    --title-color-dark: hsl(0, 0%, 100%);
+    --text-color-dark: hsl(0, 0%, 100%);
+    --container-color-dark: hsl(40, 43%, 1%);
+
+
+    --body-font: 'Helvetica', 'calibri';
+    --big-font-size: 1.5rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+
+    @media screen and (min-width: 968px){
+        --big-font-size:2rem;
+        --normal-font-size: 1rem;
+        --small-font-size: .875rem;
+    }
+    
+    --z-fixed:100;
+}
