@@ -1,3 +1,15 @@
+ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA
+
+FICHA: 2558346
+
+PROGRAMA: Analisis y Desarrollo de Software - ADSO
+
+AUTOR: Anthony Rincon
+
+FECHA DE CREACION: Agosto 2022
+
+VERSIONES: 4.0.0
+
 # Proyectos_sass
 Proyecto sass
 - Se descargaron nuevas librerias bootstrap
