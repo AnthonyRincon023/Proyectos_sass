@@ -8,7 +8,7 @@ AUTOR: Anthony Rincon
 
 FECHA DE CREACION: Agosto 2022
 
-VERSIONES: 4.0.0
+VERSION: Precompilador sass
 
 # Proyectos_sass
 Proyecto sass
