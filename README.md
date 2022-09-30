@@ -6,6 +6,8 @@ PROGRAMA: Analisis y Desarrollo de Software - ADSO
 
 AUTOR: Anthony Rincon
 
+OBJETIVO: El objetivo de este repositorio es mostrar los trabajos realizados con el precompilador SASS teniendo en cuenta las indicaciones del instructor
+                                                                          
 FECHA DE CREACION: Agosto 2022
 
 VERSION: Precompilador sass
